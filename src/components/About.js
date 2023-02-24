@@ -49,14 +49,10 @@ export default function About() {
             data-bs-parent="#accordionExample"
           >
             <div className="accordion-body" style={myStyle}>
-              <strong>This is the first item's accordion body.</strong> It is
-              shown by default, until the collapse plugin adds the appropriate
-              classes that we use to style each element. These classes control
-              the overall appearance, as well as the showing and hiding via CSS
-              transitions. You can modify any of this with custom CSS or
-              overriding our default variables. It's also worth noting that just
-              about any HTML can go within the <code>.accordion-body</code>,
-              though the transition does limit overflow.
+              Text Utils is an application that allows users to analyze text in various ways. 
+              One of the key features of the app is its ability to perform a detailed analysis of the text's readability. 
+               Text Utils can also perform basic text editing functions, such as converting to uppercase, lowercase, text copy and character count, 
+                 and can remove or replace specific words or phrases in the text.
             </div>
           </div>
         </div>
@@ -81,14 +77,8 @@ export default function About() {
             data-bs-parent="#accordionExample"
           >
             <div className="accordion-body" style={myStyle}>
-              <strong>This is the second item's accordion body.</strong> It is
-              hidden by default, until the collapse plugin adds the appropriate
-              classes that we use to style each element. These classes control
-              the overall appearance, as well as the showing and hiding via CSS
-              transitions. You can modify any of this with custom CSS or
-              overriding our default variables. It's also worth noting that just
-              about any HTML can go within the <code>.accordion-body</code>,
-              though the transition does limit overflow.
+              Text Utils is a free-to-use application, which means that users can access all of its features without having to pay any fees or subscribe to any premium plans. 
+              This makes the app accessible to anyone who needs to analyze their text, regardless of their budget or financial situation.
             </div>
           </div>
         </div>
@@ -113,14 +103,10 @@ export default function About() {
             data-bs-parent="#accordionExample"
           >
             <div className="accordion-body" style={myStyle}>
-              <strong>This is the third item's accordion body.</strong> It is
-              hidden by default, until the collapse plugin adds the appropriate
-              classes that we use to style each element. These classes control
-              the overall appearance, as well as the showing and hiding via CSS
-              transitions. You can modify any of this with custom CSS or
-              overriding our default variables. It's also worth noting that just
-              about any HTML can go within the <code>.accordion-body</code>,
-              though the transition does limit overflow.
+              Text utils app is a web-based application that offers various text manipulation tools, such as text conversion, formatting, encoding, and decoding. 
+              It is designed to be compatible with all modern browsers, including Google Chrome, Mozilla Firefox, Apple Safari, Microsoft Edge, and others.
+
+              To ensure compatibility, the app is built using web technologies such as HTML, CSS, and JavaScript, which are widely supported by all modern browsers.
             </div>
           </div>
         </div>
